@@ -1,6 +1,5 @@
 # HR Analytics Dashboard | Power BI
 
-![HR Analytics Dashboard](Dashboard.png)
 
 ## 📊 Project Overview
 
@@ -63,5 +62,9 @@ This project showcases an end-to-end **HR Analytics Dashboard** developed using 
 1. Download the `.pbix` file
 2. Open it using **Power BI Desktop**
 3. Interact with slicers and visuals to explore insights across different dimensions
+
+
+![HR Analytics Dashboard](HR analytics dashboard.png)
+
 
 
