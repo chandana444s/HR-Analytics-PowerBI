@@ -64,7 +64,8 @@ This project showcases an end-to-end **HR Analytics Dashboard** developed using 
 3. Interact with slicers and visuals to explore insights across different dimensions
 
 
-![HR Analytics Dashboard](HR analytics dashboard.png)
+![HR Analytics Dashboard](dashboard.png)
+
 
 
 
